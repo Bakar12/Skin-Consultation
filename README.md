@@ -39,13 +39,10 @@ The Skin Consultation Centre is a Java-based application designed to manage derm
 - **IDE**: Import the project and utilize IDE's run functionality.
 
 ## Documentation
-Detailed documentation, including coursework report, test plans, and UML diagrams, is available in the `Documents` directory.
+Detailed documentation, including coursework reports, test plans, and UML diagrams, is available in the `Documents` directory.
 
 ## Contributing
 Contributions are welcome. Please adhere to coding standards and include tests for new features.
-
-## License
-Specify license here.
 
 ## Acknowledgements
 Credits to tutorial exercises and lectures for guiding the development process.
